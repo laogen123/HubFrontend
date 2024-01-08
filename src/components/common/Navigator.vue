@@ -4,7 +4,7 @@
     <chevron v-else class="chevron" direction="left" @click="onCollapseMenu"></chevron>
     <div class="top">
       <div v-if="!collapsed">
-        <img src="@/assets/images/logo.svg" class="logo" @click="onHome" />
+        <img src="@/assets/images/logo.jpg" class="logo" @click="onHome" />
       </div>
       <el-menu v-if="!collapsed" :default-active="activeIndex">
         <el-menu-item
