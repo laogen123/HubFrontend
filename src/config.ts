@@ -57,6 +57,6 @@ export default {
      * Force the inviter id to be used, even if an inviter id is provided.
      * Note: if the forceInviterId is set, there will be no distribution page in console except for the forced inviter.
      */
-    forceInviterId: undefined
+    forceInviterId: '597a9416-5ece-4a45-bb0b-a43e2431a722'
   }
 };
