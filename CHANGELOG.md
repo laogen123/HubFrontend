@@ -1,8 +1,40 @@
 # Change Log - @zhishuyun/hub
 
-This log was last generated on Sun, 07 Jan 2024 14:37:32 GMT and should not be manually modified.
+This log was last generated on Mon, 08 Jan 2024 17:48:17 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 0.12.1
+
+Mon, 08 Jan 2024 17:48:17 GMT
+
+### Patches
+
+- improve mj experience (cqc@germey.cn)
+
+## 0.12.0
+
+Mon, 08 Jan 2024 15:49:20 GMT
+
+### Minor changes
+
+- add support for config title and favicon (cqc@germey.cn)
+
+## 0.11.7
+
+Mon, 08 Jan 2024 14:35:52 GMT
+
+### Patches
+
+- add auth config support (cqc@germey.cn)
+
+## 0.11.6
+
+Mon, 08 Jan 2024 14:09:32 GMT
+
+### Patches
+
+- fix upload image issue (cqc@germey.cn)
 
 ## 0.11.5
 
