@@ -1,8 +1,24 @@
 # Change Log - @zhishuyun/hub
 
-This log was last generated on Mon, 08 Jan 2024 17:48:17 GMT and should not be manually modified.
+This log was last generated on Sun, 28 Jan 2024 07:24:49 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Sun, 28 Jan 2024 07:24:49 GMT
+
+### Major changes
+
+- add chatdoc feature (cqc@germey.cn)
+
+## 0.12.2
+
+Sun, 21 Jan 2024 03:37:14 GMT
+
+### Patches
+
+- add docs for docker deploy (cqc@cuiqingcai.com)
 
 ## 0.12.1
 
